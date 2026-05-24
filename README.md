@@ -3,7 +3,7 @@ Cybersecurity & CS Student | Backend Developer | Exploring ML & Digital Forensic
 
 Cybersecurity and Computer Science student specializing in backend development, digital forensics, and secure architectures. Passionate about integrating machine learning into offensive and defensive security tools.
 
-### 💼 Past Projects
+### Past Projects
 * **Sentinel Gate:** Backend developer for an automated API security scanner. Engineered MFA authentication, customizable user settings, and trained Python ML models to classify vulnerabilities.
 
 ###  Security Research
